@@ -5,7 +5,7 @@
 <br />
 
 # Hi, I'm **Sara Kedir** 👋  
-🎓 Cybersecurity Student  
+🎓 IT Student  
 💻 Learning programming to use it in my field  
 📈 Currently learning **HTML**
 
