@@ -7,15 +7,13 @@
 # Hi, I'm **Sara Kedir** 👋  
 🎓 Cybersecurity Student  
 💻 Learning programming to use it in my field  
-🌱 Currently learning **HTML**
+📈 Currently learning **HTML**
 
 ---
 
 ## 🧩 **About Me**
 - 🔐 I'm passionate about cybersecurity and building my technical skills.  
 - 💡 Learning programming to enhance my workflow and create tools related to security.  
-- 📈 I love exploring new technologies and improving my skills step by step.
-
 ---
 
 ## 🌐 **Connect With Me**
