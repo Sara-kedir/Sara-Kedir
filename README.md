@@ -27,10 +27,3 @@
 
 ## 🛠️ **Languages I'm Learning**
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-
----
-
-## 📊 **GitHub Stats**
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sara123000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara123000&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
