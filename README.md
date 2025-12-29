@@ -24,5 +24,3 @@
 
 ---
 
-## 🛠️ **Languages I'm Learning**
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
