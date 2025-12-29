@@ -7,7 +7,6 @@
 # Hi, I'm **Sara Kedir** 👋  
 🎓 IT Student  
 💻 Learning programming to use it in my field  
-📈 Currently learning **HTML**
 
 ---
 
